@@ -1,7 +1,11 @@
  package Reinoanimal;
 
 import java.time.LocalDate;
-
+/**
+ * 
+ * @author vinicius
+ *
+ */
 public class Aquatico extends Animal {
     private String tipoAgua;
     private boolean possuiEscamas;

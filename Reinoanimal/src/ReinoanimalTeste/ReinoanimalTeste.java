@@ -6,7 +6,11 @@ import Reinoanimal.Aereo;
 import Reinoanimal.Animal;
 
 import java.time.LocalDate;
-
+/**
+ * 
+ * @author vinicius
+ *
+ */
 public class ReinoanimalTeste {
     public static void main(String[] args) {
         Aquatico tubarao = new Aquatico("Carcharias taurus", 'F', LocalDate.of(2016, 5, 20), "água salgada", false);

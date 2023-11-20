@@ -1,7 +1,11 @@
 package Reinoanimal;
 
 import java.time.LocalDate;
-
+/**
+ * 
+ * @author vinicius
+ *
+ */
 public class Terrestre extends Animal {
     private String regiao;
     private boolean possuiPelagem;

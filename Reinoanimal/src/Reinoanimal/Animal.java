@@ -1,7 +1,11 @@
 package Reinoanimal;
 
 import java.time.LocalDate;
-
+/**
+ * 
+ * @author vinicius
+ *
+ */
 public class Animal {
     private String especie;
     private char sexo;

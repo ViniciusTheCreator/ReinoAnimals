@@ -1,7 +1,11 @@
 package Reinoanimal;
 
 import java.time.LocalDate;
-
+/**
+ * 
+ * @author vinicius
+ *
+ */
 public class Aereo extends Animal {
     private double altitudeVoo;
 
